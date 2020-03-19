@@ -12,7 +12,7 @@ spec.name         = "CalcFramework"
 spec.version      = "1.0.1"
 spec.summary      = "A knob control like the UISlider, but in a circular form."
 spec.description  = "The knob control is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare."
-spec.homepage     = "http://raywenderlich.com"
+spec.homepage     = "https://github.com/maheshit/CalcFramework"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
