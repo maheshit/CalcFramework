@@ -75,7 +75,7 @@ spec.source       = { :git => "https://github.com/maheshit/CalcFramework.git", :
   #
 
 #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-spec.source_files = "CalcFramework/Classes/**/*"
+spec.source_files = "CalcFramework/**/*"
 #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
